@@ -4,7 +4,7 @@
 
  OS X command line tools for developers
 
-![image](https://github.com/guarinogabriel/mac-cli/raw/master/demo/demo.gif)
+![image](https://github.com/abossard/mac-cli/raw/master/demo/demo.gif)
 
 The ultimate tool for developers to manage their Mac. It provides a huge set of command line commands that automate the usage of your OS X system.
 When you run a function, the executed command is displayed and that helps you memorize each of the Utilities for future usage.
